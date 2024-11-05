@@ -1,0 +1,3 @@
+		creat project : nest new projectname 
+		run project : npm run start:dev (localhost:3000)
+		nest g comamnd 
